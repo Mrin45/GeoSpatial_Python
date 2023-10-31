@@ -1,1 +1,1 @@
-# GeoSpatial_Python
+# GeoSpatial-Python
